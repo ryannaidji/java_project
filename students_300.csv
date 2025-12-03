@@ -1,0 +1,337 @@
+name,age,gpa,city
+Alice,18,2.00,Miami
+Bob,19,2.10,Boston
+Carol,20,2.20,Orlando
+David,21,2.30,Seattle
+Emma,22,2.40,Austin
+Frank,23,2.50,Chicago
+Grace,24,2.60,Houston
+Henry,25,2.70,Phoenix
+Isla,26,2.80,Denver
+Jack,27,2.90,San Diego
+Kelly,28,3.00,New York
+Leo,29,3.10,Los Angeles
+Maria,30,3.20,Miami
+Nathan,31,3.30,Boston
+Olivia,32,3.40,Orlando
+Paul,33,3.50,Seattle
+Quinn,34,3.60,Austin
+Ruby,35,3.70,Chicago
+Sam,36,3.80,Houston
+Tina,37,3.90,Phoenix
+Uma,38,4.00,Denver
+Victor,39,2.00,San Diego
+Wendy,40,2.10,New York
+Xavier,41,2.20,Los Angeles
+Yara,42,2.30,Miami
+Zane,43,2.40,Boston
+Alice,44,2.50,Orlando
+Bob,45,2.60,Seattle
+Carol,18,2.70,Austin
+David,19,2.80,Chicago
+Emma,20,2.90,Houston
+Frank,21,3.00,Phoenix
+Grace,22,3.10,Denver
+Henry,23,3.20,San Diego
+Isla,24,3.30,New York
+Jack,25,3.40,Los Angeles
+Kelly,26,3.50,Miami
+Leo,27,3.60,Boston
+Maria,28,3.70,Orlando
+Nathan,29,3.80,Seattle
+Olivia,30,3.90,Austin
+Paul,31,4.00,Chicago
+Quinn,32,2.00,Houston
+Ruby,33,2.10,Phoenix
+Sam,34,2.20,Denver
+Tina,35,2.30,San Diego
+Uma,36,2.40,New York
+Victor,37,2.50,Los Angeles
+Wendy,38,2.60,Miami
+Xavier,39,2.70,Boston
+Yara,40,2.80,Orlando
+Zane,41,2.90,Seattle
+Alice,42,3.00,Austin
+Bob,43,3.10,Chicago
+Carol,44,3.20,Houston
+David,45,3.30,Phoenix
+Emma,18,3.40,Denver
+Frank,19,3.50,San Diego
+Grace,20,3.60,New York
+Henry,21,3.70,Los Angeles
+Isla,22,3.80,Miami
+Jack,23,3.90,Boston
+Kelly,24,4.00,Orlando
+Leo,25,2.00,Seattle
+Maria,26,2.10,Austin
+Nathan,27,2.20,Chicago
+Olivia,28,2.30,Houston
+Paul,29,2.40,Phoenix
+Quinn,30,2.50,Denver
+Ruby,31,2.60,San Diego
+Sam,32,2.70,New York
+Tina,33,2.80,Los Angeles
+Uma,34,2.90,Miami
+Victor,35,3.00,Boston
+Wendy,36,3.10,Orlando
+Xavier,37,3.20,Seattle
+Yara,38,3.30,Austin
+Zane,39,3.40,Chicago
+Alice,40,3.50,Houston
+Bob,41,3.60,Phoenix
+Carol,42,3.70,Denver
+David,43,3.80,San Diego
+Emma,44,3.90,New York
+Frank,45,4.00,Los Angeles
+Grace,18,2.00,Miami
+Henry,19,2.10,Boston
+Isla,20,2.20,Orlando
+Jack,21,2.30,Seattle
+Kelly,22,2.40,Austin
+Leo,23,2.50,Chicago
+Maria,24,2.60,Houston
+Nathan,25,2.70,Phoenix
+Olivia,26,2.80,Denver
+Paul,27,2.90,San Diego
+Quinn,28,3.00,New York
+Ruby,29,3.10,Los Angeles
+Sam,30,3.20,Miami
+Tina,31,3.30,Boston
+Uma,32,3.40,Orlando
+Victor,33,3.50,Seattle
+Wendy,34,3.60,Austin
+Xavier,35,3.70,Chicago
+Yara,36,3.80,Houston
+Zane,37,3.90,Phoenix
+Alice,38,4.00,Denver
+Bob,39,2.00,San Diego
+Carol,40,2.10,New York
+David,41,2.20,Los Angeles
+Emma,42,2.30,Miami
+Frank,43,2.40,Boston
+Grace,44,2.50,Orlando
+Henry,45,2.60,Seattle
+Isla,18,2.70,Austin
+Jack,19,2.80,Chicago
+Kelly,20,2.90,Houston
+Leo,21,3.00,Phoenix
+Maria,22,3.10,Denver
+Nathan,23,3.20,San Diego
+Olivia,24,3.30,New York
+Paul,25,3.40,Los Angeles
+Quinn,26,3.50,Miami
+Ruby,27,3.60,Boston
+Sam,28,3.70,Orlando
+Tina,29,3.80,Seattle
+Uma,30,3.90,Austin
+Victor,31,4.00,Chicago
+Wendy,32,2.00,Houston
+Xavier,33,2.10,Phoenix
+Yara,34,2.20,Denver
+Zane,35,2.30,San Diego
+Alice,36,2.40,New York
+Bob,37,2.50,Los Angeles
+Carol,38,2.60,Miami
+David,39,2.70,Boston
+Emma,40,2.80,Orlando
+Frank,41,2.90,Seattle
+Grace,42,3.00,Austin
+Henry,43,3.10,Chicago
+Isla,44,3.20,Houston
+Jack,45,3.30,Phoenix
+Kelly,18,3.40,Denver
+Leo,19,3.50,San Diego
+Maria,20,3.60,New York
+Nathan,21,3.70,Los Angeles
+Olivia,22,3.80,Miami
+Paul,23,3.90,Boston
+Quinn,24,4.00,Orlando
+Ruby,25,2.00,Seattle
+Sam,26,2.10,Austin
+Tina,27,2.20,Chicago
+Uma,28,2.30,Houston
+Victor,29,2.40,Phoenix
+Wendy,30,2.50,Denver
+Xavier,31,2.60,San Diego
+Yara,32,2.70,New York
+Zane,33,2.80,Los Angeles
+Alice,34,2.90,Miami
+Bob,35,3.00,Boston
+Carol,36,3.10,Orlando
+David,37,3.20,Seattle
+Emma,38,3.30,Austin
+Frank,39,3.40,Chicago
+Grace,40,3.50,Houston
+Henry,41,3.60,Phoenix
+Isla,42,3.70,Denver
+Jack,43,3.80,San Diego
+Kelly,44,3.90,New York
+Leo,45,4.00,Los Angeles
+Maria,18,2.00,Miami
+Nathan,19,2.10,Boston
+Olivia,20,2.20,Orlando
+Paul,21,2.30,Seattle
+Quinn,22,2.40,Austin
+Ruby,23,2.50,Chicago
+Sam,24,2.60,Houston
+Tina,25,2.70,Phoenix
+Uma,26,2.80,Denver
+Victor,27,2.90,San Diego
+Wendy,28,3.00,New York
+Xavier,29,3.10,Los Angeles
+Yara,30,3.20,Miami
+Zane,31,3.30,Boston
+Alice,32,3.40,Orlando
+Bob,33,3.50,Seattle
+Carol,34,3.60,Austin
+David,35,3.70,Chicago
+Emma,36,3.80,Houston
+Frank,37,3.90,Phoenix
+Grace,38,4.00,Denver
+Henry,39,2.00,San Diego
+Isla,40,2.10,New York
+Jack,41,2.20,Los Angeles
+Kelly,42,2.30,Miami
+Leo,43,2.40,Boston
+Maria,44,2.50,Orlando
+Nathan,45,2.60,Seattle
+Olivia,18,2.70,Austin
+Paul,19,2.80,Chicago
+Quinn,20,2.90,Houston
+Ruby,21,3.00,Phoenix
+Sam,22,3.10,Denver
+Tina,23,3.20,San Diego
+Uma,24,3.30,New York
+Victor,25,3.40,Los Angeles
+Wendy,26,3.50,Miami
+Xavier,27,3.60,Boston
+Yara,28,3.70,Orlando
+Zane,29,3.80,Seattle
+Alice,30,3.90,Austin
+Bob,31,4.00,Chicago
+Carol,32,2.00,Houston
+David,33,2.10,Phoenix
+Emma,34,2.20,Denver
+Frank,35,2.30,San Diego
+Grace,36,2.40,New York
+Henry,37,2.50,Los Angeles
+Isla,38,2.60,Miami
+Jack,39,2.70,Boston
+Kelly,40,2.80,Orlando
+Leo,41,2.90,Seattle
+Maria,42,3.00,Austin
+Nathan,43,3.10,Chicago
+Olivia,44,3.20,Houston
+Paul,45,3.30,Phoenix
+Quinn,18,3.40,Denver
+Ruby,19,3.50,San Diego
+Sam,20,3.60,New York
+Tina,21,3.70,Los Angeles
+Uma,22,3.80,Miami
+Victor,23,3.90,Boston
+Wendy,24,4.00,Orlando
+Xavier,25,2.00,Seattle
+Yara,26,2.10,Austin
+Zane,27,2.20,Chicago
+Alice,28,2.30,Houston
+Bob,29,2.40,Phoenix
+Carol,30,2.50,Denver
+David,31,2.60,San Diego
+Emma,32,2.70,New York
+Frank,33,2.80,Los Angeles
+Grace,34,2.90,Miami
+Henry,35,3.00,Boston
+Isla,36,3.10,Orlando
+Jack,37,3.20,Seattle
+Kelly,38,3.30,Austin
+Leo,39,3.40,Chicago
+Maria,40,3.50,Houston
+Nathan,41,3.60,Phoenix
+Olivia,42,3.70,Denver
+Paul,43,3.80,San Diego
+Quinn,44,3.90,New York
+Ruby,45,4.00,Los Angeles
+Sam,18,2.00,Miami
+Tina,19,2.10,Boston
+Uma,20,2.20,Orlando
+Victor,21,2.30,Seattle
+Wendy,22,2.40,Austin
+Xavier,23,2.50,Chicago
+Yara,24,2.60,Houston
+Zane,25,2.70,Phoenix
+Alice,26,2.80,Denver
+Bob,27,2.90,San Diego
+Carol,28,3.00,New York
+David,29,3.10,Los Angeles
+Emma,30,3.20,Miami
+Frank,31,3.30,Boston
+Grace,32,3.40,Orlando
+Henry,33,3.50,Seattle
+Isla,34,3.60,Austin
+Jack,35,3.70,Chicago
+Kelly,36,3.80,Houston
+Leo,37,3.90,Phoenix
+Maria,38,4.00,Denver
+Nathan,39,2.00,San Diego
+Olivia,40,2.10,New York
+Paul,41,2.20,Los Angeles
+Quinn,42,2.30,Miami
+Ruby,43,2.40,Boston
+Sam,44,2.50,Orlando
+Tina,45,2.60,Seattle
+Uma,18,2.70,Austin
+Victor,19,2.80,Chicago
+Wendy,20,2.90,Houston
+Xavier,21,3.00,Phoenix
+Yara,22,3.10,Denver
+Zane,23,3.20,San Diego
+Alice,24,3.30,New York
+Bob,25,3.40,Los Angeles
+Carol,26,3.50,Miami
+David,27,3.60,Boston
+Emma,28,3.70,Orlando
+Frank,29,3.80,Seattle
+Grace,30,3.90,Austin
+Henry,31,4.00,Chicago
+Isla,32,2.00,Houston
+Jack,33,2.10,Phoenix
+Kelly,34,2.20,Denver
+Leo,35,2.30,San Diego
+Maria,36,2.40,New York
+Nathan,37,2.50,Los Angeles
+Olivia,38,2.60,Miami
+Paul,39,2.70,Boston
+Quinn,40,2.80,Orlando
+Ruby,41,2.90,Seattle
+Sam,42,3.00,Austin
+Tina,43,3.10,Chicago
+Uma,44,3.20,Houston
+Victor,45,3.30,Phoenix
+Wendy,18,3.40,Denver
+Xavier,19,3.50,San Diego
+Yara,20,3.60,New York
+Zane,21,3.70,Los Angeles
+Alice,22,3.80,Miami
+Bob,23,3.90,Boston
+Carol,24,4.00,Orlando
+David,25,2.00,Seattle
+Emma,26,2.10,Austin
+Frank,27,2.20,Chicago
+Grace,28,2.30,Houston
+Henry,29,2.40,Phoenix
+Isla,30,2.50,Denver
+Jack,31,2.60,San Diego
+Kelly,32,2.70,New York
+Leo,33,2.80,Los Angeles
+Maria,34,2.90,Miami
+Nathan,35,3.00,Boston
+Olivia,36,3.10,Orlando
+Paul,37,3.20,Seattle
+Quinn,38,3.30,Austin
+Ruby,39,3.40,Chicago
+Sam,40,3.50,Houston
+Tina,41,3.60,Phoenix
+Uma,42,3.70,Denver
+Victor,43,3.80,San Diego
+Wendy,44,3.90,New York
+Xavier,45,4.00,Los Angeles
